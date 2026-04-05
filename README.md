@@ -15,7 +15,7 @@ The goal of ClickNGo is to bridge the gap between local service providers and cu
 ## 🖼️ Screenshots
 
 ### 🏠 Landing Page
-![Landing Page](./screenshot1.png)
+![Landing Page](./ClickNGo-frontend-main/public/images/categories.png)
 
 ### 👤 User Profile & Bookings Dashboard
 ![User Profile](./screenshot2.png)
