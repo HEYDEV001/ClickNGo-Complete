@@ -1,4 +1,4 @@
-# ClickNGo 🛎️
+# ClickNGo 
 
 > **Book Local. Live Better.**
 
@@ -6,44 +6,44 @@ ClickNGo is a full-stack local services booking platform that lets users discove
 
 ---
 
-## 📌 Project Objective
+##  Project Objective
 
 The goal of ClickNGo is to bridge the gap between local service providers and customers by offering a seamless, category-driven booking experience. Users can browse services by category, view provider availability in real time, and complete secure bookings — all from a single, intuitive web application.
 
 ---
 
-## 🖼️ Screenshots
+##  Screenshots
 
-### 🏠 Landing Page
+###  Landing Page
 ![Landing Page](./ClickNGo-frontend-main/public/images/home.png)
 
-### 👤 User Profile & Bookings Dashboard
+###  User Profile & Bookings Dashboard
 ![User Profile](./ClickNGo-frontend-main/public/images/profile.png)
 
-### ⚙️ How It Works & Why Choose Us
+###  How It Works & Why Choose Us
 ![How It Works](./ClickNGo-frontend-main/public/images/whyChooseUs.png)
 
-### 📂 Service Categories
+###  Service Categories
 ![Service Categories](./ClickNGo-frontend-main/public/images/categories.png)
 
 ---
 
-## ✨ Key Features
+##  Key Features
 
 | Feature | Description |
 |---|---|
-| 🗂️ **Service Categories** | Browse Grooming, Real Estate, HealthCare, and Sports & Gaming with sub-categories |
-| 📍 **Location-Aware** | City-based service discovery displayed in the navbar |
-| 🔐 **User Authentication** | Secure sign-up / login with profile management |
-| 📅 **Real-Time Booking Calendar** | View live provider availability and lock in a time slot |
-| 💳 **Secure Payments** | Integrated payment flow (Razorpay / Stripe ready) |
-| 🔔 **Instant Notifications** | SMS and email updates at every booking step |
-| 📊 **Booking Dashboard** | Track total, completed, cancelled, and pending-review bookings |
-| 🔍 **Global Search** | Search bar for quick service discovery across all categories |
+|  **Service Categories** | Browse Grooming, Real Estate, HealthCare, and Sports & Gaming with sub-categories |
+|  **Location-Aware** | City-based service discovery displayed in the navbar |
+|  **User Authentication** | Secure sign-up / login with profile management |
+|  **Real-Time Booking Calendar** | View live provider availability and lock in a time slot |
+|  **Secure Payments** | Integrated payment flow (Razorpay / Stripe ready) |
+|  **Instant Notifications** | SMS and email updates at every booking step |
+|  **Booking Dashboard** | Track total, completed, cancelled, and pending-review bookings |
+|  **Global Search** | Search bar for quick service discovery across all categories |
 
 ---
 
-## 🗂️ Project Structure
+##  Project Structure
 
 ```
 ClickNGo-Complete/
@@ -81,9 +81,9 @@ ClickNGo-Complete/
 
 ---
 
-## 🚧 Challenges & Optimizations
+##  Challenges & Optimizations
 
-### 1. 🔗 Connecting Frontend with Backend
+### 1.  Connecting Frontend with Backend
 
 **Challenge:** Establishing reliable communication between the React frontend and the Node/Express backend was a major hurdle — especially handling CORS, API base URLs across environments, and synchronizing async state with API responses.
 
@@ -96,7 +96,7 @@ ClickNGo-Complete/
 
 ---
 
-### 2. 🏗️ Designing a Scalable Category Architecture
+### 2.  Designing a Scalable Category Architecture
 
 **Challenge:** Supporting four very different service categories (Grooming, Real Estate, HealthCare, Sports & Gaming), each with their own sub-services and booking flows, without duplicating code.
 
@@ -107,7 +107,7 @@ ClickNGo-Complete/
 
 ---
 
-### 3. 🔐 Authentication & Session Management
+### 3.  Authentication & Session Management
 
 **Challenge:** Implementing secure user authentication while keeping the experience smooth (no unnecessary re-logins, persistent sessions).
 
@@ -118,7 +118,7 @@ ClickNGo-Complete/
 
 ---
 
-### 4. 📊 Booking State Tracking
+### 4.  Booking State Tracking
 
 **Challenge:** Accurately tracking booking states (pending, completed, cancelled) and surfacing them to users without stale data.
 
@@ -128,7 +128,7 @@ ClickNGo-Complete/
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### Prerequisites
 - Node.js v18+
