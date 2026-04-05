@@ -155,10 +155,4 @@ npm run dev
 
 ---
 
-## 📄 License
-
-This project is open source and available under the [MIT License](LICENSE).
-
----
-
 <p align="center">Built with ❤️ by <a href="https://github.com/HEYDEV001">Dev Pathak</a></p>
