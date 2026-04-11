@@ -153,6 +153,9 @@ npm install
 npm run dev
 ```
 
----
+## Author
 
-<p align="center">Built with ❤️ by <a href="https://github.com/HEYDEV001">Dev Pathak</a></p>
+**HEYDEV001**
+[github.com/HEYDEV001](https://github.com/HEYDEV001)
+
+---
