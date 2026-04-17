@@ -69,7 +69,7 @@ ClickNGo-Complete/
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 | Layer | Technology |
 |---|---|
